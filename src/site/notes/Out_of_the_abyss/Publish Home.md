@@ -13,3 +13,4 @@ Test
 
 ![[Aktuelle_Karte.excalidraw]]
 Test
+[[Out_of_the_abyss/Aktuelle_Karte\|Aktuelle_Karte]]
