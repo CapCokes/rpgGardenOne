@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Out_of_the_abyss/Test/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/out-of-the-abyss/test/","tags":["gardenEntry"]}
 ---
 
 Test
