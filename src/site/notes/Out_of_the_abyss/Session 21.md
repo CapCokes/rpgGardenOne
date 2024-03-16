@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/out-of-the-abyss/session-21/"}
+{"dg-publish":true,"permalink":"/out-of-the-abyss/session-21/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
