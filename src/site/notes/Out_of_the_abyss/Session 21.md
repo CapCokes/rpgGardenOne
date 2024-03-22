@@ -19,7 +19,7 @@ Ein elfisches Reiseportal. Ich kann es aktivieren und schreite, mit den anderen,
 
 # 20. Tag
 
-Reise nach Settlestone. Wir finden sogar Pfade.
+Reise nach [[Out_of_the_abyss/Orte/Settlestone\|Settlestone]]. Wir finden sogar Pfade.
 
 # 21. Tag
 
