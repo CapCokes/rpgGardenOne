@@ -38,4 +38,5 @@ Wir steigen ab, mit Narry und ein paar Barbaren (4x).
 Nach einiger Zeit wollen die fünf uns ans Leder, aber sie haben sich verkalkuliert.
 Narry war von den Zentarim.
 
-[[Out_of_the_abyss/Session 22\|Out_of_the_abyss/Session 22]]
+[[Out_of_the_abyss/Session 22\|Session 22]]
+
