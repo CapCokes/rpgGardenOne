@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/out-of-the-abyss/session-21/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
-
+[[Out_of_the_abyss/Session 20\|Session 20]]
 # 17. Tag
 
 Wir beschließen am südlichen Ufer des Mirar entlang Richtung Lurkwood zu ziehen.
@@ -29,9 +29,9 @@ Er ist vom Clan Weiß-Äxte (Whiteaxes)
 
 # 22. Tag
 
-Geruht an einem "Rastplatz". Orni einen Gruß hinterlassen.
+Geruht an einem "Rastplatz". Orni (Spruch: Orni war hier!) einen Gruß hinterlassen.
 
-Im Laufe des Tages erreichen wir eine Siedlung. Bei Narry ist der Abstieg und das Gasthaus (Narry's Allerlei).
+Im Laufe des Tages erreichen wir eine Siedlung. Bei Narry ist der Abstieg ins Unterreich und das Gasthaus (Narry's Allerlei).
 
 Zahle 150 Gold für alle!
 Wir steigen ab, mit Narry und ein paar Barbaren (4x).
