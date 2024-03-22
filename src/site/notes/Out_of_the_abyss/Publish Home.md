@@ -4,5 +4,5 @@
 
 Einstieg
 
-[[Out_of_the_abyss/Session 21\|Session 21]]
+[[Out_of_the_abyss/Übersicht Sessions\|Übersicht Sessions]]
 
